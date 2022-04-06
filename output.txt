@@ -1,0 +1,1 @@
+Hello, This is an attempt to convert text to speech. Using python. Nikko.  

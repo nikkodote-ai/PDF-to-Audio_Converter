@@ -1,0 +1,1 @@
+Gday. This is an attempt to convert to text to speech programmatically using amazon web services by Nikko. 
